@@ -49,7 +49,7 @@ class Member
          $book->returnBook();
     }
 }
-$book1 = new Book("The Great Gatsby", 0);
+$book1 = new Book("The Great Gatsby", 5);
 $book2 = new Book("To Kill a Mockingbird", 3);
 
 $member1=new Member("John Doe");
